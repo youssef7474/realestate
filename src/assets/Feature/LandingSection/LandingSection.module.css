@@ -1,0 +1,11 @@
+.LandingSection{
+    background-image: url("../../../assets/imges/heroPic.png");
+    background-size: cover;
+    height: 600px; /* Adjust the height based on your design */
+}
+
+@media(max-width:767px){
+    .LandingSection{
+        height: 300px;
+    }
+}

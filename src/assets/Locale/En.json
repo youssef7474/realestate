@@ -1,0 +1,15 @@
+{
+    "Welcome":"Welcome",
+    "navBar":{
+        "home":"Home",
+        "AboutUs":"About Us",
+        "ContactUs":"Contact Us",
+        "OurServices":"Our Services",
+        "Products":"Products"
+    },
+    "HeroSection":{
+        "TheBestWay":"THE BEST WAY TO",
+        "FindYourDreamHome":"Find Your Dream Home",
+        "Wehavemorethan":"We’ve more than 745,000 apartments, place & plot."
+    }
+}

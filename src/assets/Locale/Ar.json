@@ -1,0 +1,15 @@
+{
+    "Welcome":"مرحبا",
+    "navBar":{
+        "home": "الصفحة الرئيسية",
+        "AboutUs": "من نحن",
+        "ContactUs": "اتصل بنا",
+        "OurServices": "خدماتنا",
+        "Products": "منتجاتنا"
+    },
+    "HeroSection":{
+        "TheBestWay": "الطريقة الأفضل لـ",
+        "FindYourDreamHome": "العثور على منزل أحلامك",
+        "Wehavemorethan": "لدينا أكثر من 745،000 شقة، مكان وقطعة أرض."
+    }
+}

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.conatnier{
+    padding-left:25px;
+    padding-right: 25px;
+    margin: auto;
+  }
